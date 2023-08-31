@@ -4,4 +4,4 @@ services:
   web:
     image: "prady2211/node_to_do:latest"
     ports:
-      - "8501:8501"
+      - "8000:8000"
