@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "prady2211/node_to_do:lates"
+    image: "prady2211/node_to_do:latest"
     ports:
       - "8501:8501"
